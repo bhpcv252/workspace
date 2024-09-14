@@ -32,3 +32,5 @@ bin/
 # Environment Variables
 .env
 
+# Exclude private workspaces
+private/
